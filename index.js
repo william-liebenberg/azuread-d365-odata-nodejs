@@ -7,7 +7,7 @@ const TENANT = '*******************************';;
 const TENANT_ID = '*******************************';;
 const APP_SECERET = '*******************************';
 const TOKEN_ENDPOINT = `https://login.microsoftonline.com/${TENANT_ID}/oauth2/v2.0/token`;
-const SCOPE = 'https://ssw.crm6.dynamics.com/.default';
+const SCOPE = '*******************************/.default';
 
 // ----------------------------------------------------------------------------------------
 //  Obtaining an Access Token
